@@ -6,8 +6,8 @@
 ---
 
 ## 👩‍💻 About Me
-I’m an AI educator, researcher, and practitioner passionate about solving real-world problems through AI.  
-My work spans **AI**, **Data Sciene**, and recently **generative AI applications**.  
+I am an AI educator, researcher, and practitioner passionate about solving real-world problems through AI.  
+My work spans **Artificial Intelligence**, **Data Science**, and **Generative AI applications**.  
 I combine academic insight with hands-on experience to create impactful solutions and empower the next generation of AI talent.
 
 ---
@@ -25,11 +25,38 @@ I combine academic insight with hands-on experience to create impactful solution
 
 ---
 
+## 🔬 Research Experience
+
+- **AI Research Intern** – *University of Oklahoma*  
+Built scikit-learn and PyTorch pipelines with SMOTE and GridSearchCV to predict student mental health,
+performance, and drop-out risk
+Applied LIME and SHAP to improve model transparency
+
+- **Graduate Researcher** – *University of California, Irvine*  
+  Contributed to LLM-literacy projects, also worked on predictive analytics for patient monitoring and diagnostic support.
+
+- **Research Collaborator** – *Purdue University*  
+Evaluated the specificity of NLP-annotated student reflections using inferential statistical tests and post
+hoc analysis, leading to a Journal paper in-preparation
+Conducted a comparative benchmark of traditional NLP algorithms and LLMs for student reflection
+summarization, incorporating persona-based prompt engineering; published at ASEE 2024
+
+---
+
+## 🤝 Volunteer Experience
+
+- 📢 Organizing free-of-cost [Python and AI bootcamps](https://www.facebook.com/iCodeguru/videos/765021723146669), training **500+** underprivileged students *(2025)*  
+- 📄 Served as reviewer for the Annual Conference of the **American Society for Engineering Education** *(2025)*  
+- ☁️ Trained **300+** students to build AI-powered applications using Gemini and Google Cloud Platform through [Google Cloud Extended Build with AI Workshops](https://www.linkedin.com/posts/gdgcloudlahore_cloudnextextended-speakerspotlight-cloudnext2025-activity-7350799408625569792-dfOA?utm_source=share&utm_medium=member_desktop&rcm=ACoAACCxWiYBUMaujlQnobZCB1bQiZ4Wbw_U1IM), Lahore, Pakistan *(2025)*  
+- 👩‍🏫 Led **10+** Python and Machine Learning workshops as mentor at AI@UCI Club, UC Irvine, and as Chairperson, Women in Engineering Committee, IEEE UET  
+
+---
+
 ## 🚀 Current Projects
 - 🧠 **AI for Healthcare Diagnostics & Chronic Care Management**  
 - 📚 **Teaching AI, Machine Learning, and Data Science at FAST NUCES**  
 - 🔍 **Research in Explainable AI & Retrieval-Augmented Generation**  
-- 🤖 **Building AI-powered chatbots & multi-agent systems**
+- 🤖 **Building AI-powered chatbots & multi-agent systems**  
 
 ---
 
@@ -40,14 +67,5 @@ I combine academic insight with hands-on experience to create impactful solution
 
 ---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_ID)  
-
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
-
----

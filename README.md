@@ -7,7 +7,7 @@
 
 ## 👩‍💻 About Me
 I’m an AI educator, researcher, and practitioner passionate about solving real-world problems through AI.  
-My work spans **healthcare AI**, **RAG systems**, and **generative AI applications**.  
+My work spans **AI**, **Data Sciene**, and recently **generative AI applications**.  
 I combine academic insight with hands-on experience to create impactful solutions and empower the next generation of AI talent.
 
 ---

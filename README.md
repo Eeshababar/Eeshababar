@@ -27,15 +27,15 @@ I combine academic insight with hands-on experience to create impactful solution
 
 ## 🔬 Research Experience
 
-- **AI Research Intern** – *University of Oklahoma*  
+- **AI Research Assistant** – *University of Oklahoma*  
 Built scikit-learn and PyTorch pipelines with SMOTE and GridSearchCV to predict student mental health,
 performance, and drop-out risk
-Applied LIME and SHAP to improve model transparency
+Applied LIME and SHAP to improve model transparency; published at ASEE 2025
 
-- **Graduate Researcher** – *University of California, Irvine*  
+- **AI Research Assistant** – *University of California, Irvine*  
   Contributed to LLM-literacy projects, also worked on predictive analytics for patient monitoring and diagnostic support.
 
-- **Research Collaborator** – *Purdue University*  
+- **AI Research Assistant** – *Purdue University*  
 Evaluated the specificity of NLP-annotated student reflections using inferential statistical tests and post
 hoc analysis, leading to a Journal paper in-preparation
 Conducted a comparative benchmark of traditional NLP algorithms and LLMs for student reflection

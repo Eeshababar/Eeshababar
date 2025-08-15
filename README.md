@@ -1,6 +1,6 @@
 # Hi, I'm Eesha Tur Razia Babar 👋
 
-**UC Irvine Graduate** | **AI Research Assistant @ Purdue University** | **AWS re:Invent Scholar**  
+**UC Irvine Graduate** | **AI Research Assistant @ University of Oklahoma** | **AWS re:Invent Scholar**  
 **AI Lecturer @ FAST NUCES** | **Mentor & Judge @ PEC Generative AI Hackathon** | **AI Trainer @ Google Cloud Lahore**  
 
 ---

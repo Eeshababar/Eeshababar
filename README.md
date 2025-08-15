@@ -67,5 +67,4 @@ summarization, incorporating persona-based prompt engineering; published at ASEE
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+

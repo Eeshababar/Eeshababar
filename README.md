@@ -1,4 +1,4 @@
-# Hi, I'm Eesha Tur Razia Babar 👋
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f689a915-f53f-4c93-9a43-c1fe5a4aa1c8" /># Hi, I'm Eesha Tur Razia Babar 👋
 
 **UC Irvine Graduate** | **AI Research Assistant @ University of Oklahoma** | **AWS re:Invent Scholar**  
 **AI Lecturer @ FAST NUCES** | **Mentor & Judge @ PEC Generative AI Hackathon** | **AI Trainer @ Google Cloud Lahore**  
@@ -65,10 +65,12 @@ summarization, incorporating persona-based prompt engineering; published at ASEE
 - **Mentor & Judge** – PEC Generative AI Hackathon.
 - **Speaker & Trainer** – Google Cloud AI workshops in Lahore.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)  
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/)  
-
 ---
 
+## 📫 Connect with Me  
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ebabar@uci.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/esha](https://www.linkedin.com/in/eeshababar/))
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your_username)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/your_username)
 

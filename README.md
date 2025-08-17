@@ -65,6 +65,10 @@ summarization, incorporating persona-based prompt engineering; published at ASEE
 - **Mentor & Judge** – PEC Generative AI Hackathon.
 - **Speaker & Trainer** – Google Cloud AI workshops in Lahore.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)  
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/)  
+
 ---
 
 

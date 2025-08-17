@@ -75,3 +75,4 @@ summarization, incorporating persona-based prompt engineering; published at ASEE
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/your_username)
 
 
+![GenAI Mentorship](https://github.com/Eeshababar/Eeshababar/blob/main/assets/GenAI%20mentorship.jpg)

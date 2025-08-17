@@ -77,8 +77,5 @@ summarization, incorporating persona-based prompt engineering; published at ASEE
 
 ## 🏆 Recognition
 
-
-<p align="center">
-  <img src="https://github.com/Eeshababar/Eeshababar/raw/main/assets/GenAI%20mentorship.jpg" alt="GenAI Mentorship" width="250"/>
-</p>
+<img src="https://github.com/Eeshababar/Eeshababar/raw/main/assets/GenAI%20mentorship.jpg" alt="GenAI Mentorship" width="350"/>
 

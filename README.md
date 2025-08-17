@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f689a915-f53f-4c93-9a43-c1fe5a4aa1c8" /># Hi, I'm Eesha Tur Razia Babar 👋
+# Hi, I'm Eesha Tur Razia Babar 👋
 
 **UC Irvine Graduate** | **AI Research Assistant @ University of Oklahoma** | **AWS re:Invent Scholar**  
 **AI Lecturer @ FAST NUCES** | **Mentor & Judge @ PEC Generative AI Hackathon** | **AI Trainer @ Google Cloud Lahore**  

@@ -74,8 +74,11 @@ summarization, incorporating persona-based prompt engineering; published at ASEE
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your_username)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/your_username)
 
+---
 
-## 🏆 Mentorship/Teaching/Volunteer Work Recognitions
+## 🏆 Completed Hackathons
 
-<img src="https://github.com/Eeshababar/Eeshababar/raw/main/assets/GenAI%20mentorship.jpg" alt="GenAI Mentorship" width="350"/>
+<img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/Hackathon1" alt="GenAI Mentorship" width="350"/>
+<img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/CSGirlies.png" alt="GenAI Mentorship" width="350"/>
+
 

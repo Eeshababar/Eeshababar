@@ -79,7 +79,7 @@ summarization, incorporating persona-based prompt engineering; published at ASEE
 ## 🏆 Completed Hackathons
 
 <p align="center">
-  <img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/Hackathon1" alt="Hackathon" , height="250"/>
+  <img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/Hackathon1" alt="Hackathon" , height="200"/>
   <img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/CSGirliesup.png?raw=true" alt="CS Girlies"  height="200"/>
 </p>
 

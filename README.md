@@ -91,9 +91,10 @@ summarization, incorporating persona-based prompt engineering; published at ASEE
 ## 🎖️ Recognitions
 
 <p align="center">
-  <img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/GenAI%20mentorship.jpg?raw=true" alt="GenAI Mentorship" height="250" style="margin-right:15px;"/>
+  <img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/GenAI%20mentorship.jpg?raw=true" alt="GenAI Mentorship" height="250"/><br>
   <img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/1755593556193.jpg?raw=true" alt="Hackathon" height="250"/>
 </p>
+
 
 
 

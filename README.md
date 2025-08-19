@@ -6,7 +6,7 @@
 ---
 
 ## 👩‍💻 About Me
-I am an AI educator, researcher, and practitioner passionate about solving real-world problems through AI.  
+I am an AI researcher and an educator, passionate about solving real-world problems through AI.  
 My work spans **Artificial Intelligence**, **Data Science**, and **Generative AI applications**.  
 I combine academic insight with hands-on experience to create impactful solutions and empower the next generation of AI talent.
 
@@ -16,12 +16,13 @@ I combine academic insight with hands-on experience to create impactful solution
 
 | **Domain**               | **Skills / Tools** |
 |--------------------------|--------------------|
-| **AI & ML**              | Python, PyTorch, TensorFlow, Hugging Face, Scikit-learn |
+| **Programming Languages**| Python, MATLAB, SQL, R, C/C++ |
+| **AI & ML**              | Scikit-learn, TensorFlow, PyTorch, Keras, SciPy, Pandas, OpenCV, NLTK |
 | **Generative AI**        | LLMs, RAG, LangChain, Groq API, Prompt Engineering |
-| **Healthcare AI**        | Chronic Care AI, Explainable AI, Medical Imaging |
-| **Data Science**         | Pandas, NumPy, Matplotlib, Seaborn, Data Visualization |
-| **Cloud & DevOps**       | Google Cloud Platform, AWS, Docker |
+| **Data Science**         | Pandas, NumPy, Matplotlib, Seaborn, Plotly |
 | **Teaching & Mentoring** | Curriculum Design, Hackathon Mentorship, Technical Workshops |
+| **Healthcare AI**        | Disease prediction, Diabetes Management, Chronic Care AI, Explainable AI, Medical Imaging |
+
 
 ---
 
@@ -32,23 +33,24 @@ Built scikit-learn and PyTorch pipelines with SMOTE and GridSearchCV to predict 
 performance, and drop-out risk
 Applied LIME and SHAP to improve model transparency; published at ASEE 2025
 
-- **AI Research Assistant** – *University of California, Irvine*  
-  Contributed to LLM-literacy projects, also worked on predictive analytics for patient monitoring and diagnostic support.
-
 - **AI Research Assistant** – *Purdue University*  
 Evaluated the specificity of NLP-annotated student reflections using inferential statistical tests and post
 hoc analysis, leading to a Journal paper in-preparation
 Conducted a comparative benchmark of traditional NLP algorithms and LLMs for student reflection
 summarization, incorporating persona-based prompt engineering; published at ASEE 2024
 
----
-
+- **AI Research Assistant** – *University of California, Irvine*
+Researched college students’ perceptions of generative AI across disciplines by designing and administering surveys, 
+then analyzing responses for actionable insights.
+Evaluated and compared the performance of Large Language Models (LLMs), including ChatGPT 4.0 and Google Bard, 
+across diverse tasks to highlight their strengths and limitations.
+  
 ## 🤝 Volunteer Services
 
-- 📢 Organized free online **Python & AI Bootcamps**, training **500+** underserved students *(2025)*  
+- 📢 Organizing free online **Python & AI Bootcamps**, training **150+** underserved students *(2025)*  
 - 📄 Reviewer for the **ASEE Annual Conference** *(2025)*  
 - ☁️ Trained **300+** students to build AI-powered apps with **Gemini + Google Cloud** through *Build with AI Workshops*, Lahore *(2025)*  
-- 🤝 Conducted **Generative AI courses** in collaboration with **Pakistan Engineering Council (PEC)** & **Aspire Pakistan** *(2025)*  
+- 🤝 Conducted **Generative AI courses** in collaboration with **Pakistan Engineering Council (PEC)** & **Aspire Pakistan**, training **200+** underserved students *(2025)*  
 - 🧭 Conducted **Building Research Profile Workshops**, guiding students on **research skills, and career pathways** *(2025)*  
 - 👩‍🏫 Led **10+** Python & ML workshops as **Mentor, AI@UCI Club (UC Irvine)** and **Chairperson, IEEE UET Women in Engineering Committee**  
 
@@ -63,13 +65,13 @@ summarization, incorporating persona-based prompt engineering; published at ASEE
 ---
 
 ## 🏆 Achievements
-- **AWS re:Invent Scholar** – Recognized for contributions and leadership in AI.
-- **Mentor & Judge** – PEC Generative AI Hackathon.
-- **Speaker & Trainer** – Google Cloud AI workshops in Lahore.
+- **AWS re:Invent Scholar**, Recognized for contributions and leadership in AI.
+- **Mentor & Judge**, PEC Generative AI Hackathon.
+- **Speaker & Trainer**, Google Cloud AI workshops in Lahore.
 
 ---
 
-## 📫 Connect with Me  
+## 📫 Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ebabar@uci.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eeshababar/)
@@ -83,7 +85,7 @@ summarization, incorporating persona-based prompt engineering; published at ASEE
 <p align="center">
   <img src="https://raw.githubusercontent.com/Eeshababar/Eeshababar/main/assets/CSGirliesup.png" alt="CS Girlies" height="200" style="margin-right: 15px;"/>
   <img src="https://raw.githubusercontent.com/Eeshababar/Eeshababar/main/assets/gamma3n.png" alt="Gamma3n" height="200"/>
-  <img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/Hackathon1" alt="Hackathon" height="400" style="margin-right: 15px;"/>
+  <img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/Hackathon1" alt="Hackathon" height="300" style="margin-right: 15px;"/>
 </p>
 
 ---

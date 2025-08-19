@@ -81,7 +81,7 @@ summarization, incorporating persona-based prompt engineering; published at ASEE
 ## 🏆 Completed Hackathons
 
 <p align="center">
-  <img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/Hackathon1" alt="Hackathon" width = 250, height="200" style="margin-right: 15px;"/>
+  <img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/Hackathon1" alt="Hackathon" height="200" style="margin-right: 15px;"/>
   <img src="https://raw.githubusercontent.com/Eeshababar/Eeshababar/main/assets/CSGirliesup.png" alt="CS Girlies" height="200" style="margin-right: 15px;"/>
   <img src="https://raw.githubusercontent.com/Eeshababar/Eeshababar/main/assets/gamma3n.png" alt="Gamma3n" height="200"/>
 </p>
@@ -90,6 +90,10 @@ summarization, incorporating persona-based prompt engineering; published at ASEE
 
 ## 🎖️ Recognitions
 
-<img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/GenAI%20mentorship.jpg?raw=true" alt="Hackathon" height="250"/>
+<p align="center">
+  <img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/GenAI%20mentorship.jpg?raw=true" alt="GenAI Mentorship" height="250" style="margin-right:15px;"/>
+  <img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/1755593556193.jpg?raw=true" alt="Hackathon" height="250"/>
+</p>
+
 
 

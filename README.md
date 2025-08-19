@@ -45,10 +45,14 @@ summarization, incorporating persona-based prompt engineering; published at ASEE
 
 ## 🤝 Volunteer Experience
 
-- 📢 Organizing free-of-cost [Python and AI bootcamps](https://www.facebook.com/iCodeguru/videos/765021723146669), training **500+** underprivileged students *(2025)*  
-- 📄 Served as reviewer for the Annual Conference of the **American Society for Engineering Education** *(2025)*  
-- ☁️ Trained **300+** students to build AI-powered applications using Gemini and Google Cloud Platform through [Google Cloud Extended Build with AI Workshops](https://www.linkedin.com/posts/gdgcloudlahore_cloudnextextended-speakerspotlight-cloudnext2025-activity-7350799408625569792-dfOA?utm_source=share&utm_medium=member_desktop&rcm=ACoAACCxWiYBUMaujlQnobZCB1bQiZ4Wbw_U1IM), Lahore, Pakistan *(2025)*  
-- 👩‍🏫 Led **10+** Python and Machine Learning workshops as mentor at AI@UCI Club, UC Irvine, and as Chairperson, Women in Engineering Committee, IEEE UET  
+## 🎓 Teaching & Community Engagement
+
+- 📢 Organized free online **Python & AI Bootcamps**, training **500+** underserved students *(2025)*  
+- 📄 Reviewer for the **ASEE Annual Conference** *(2025)*  
+- ☁️ Trained **300+** students to build AI-powered apps with **Gemini + Google Cloud** through *Build with AI Workshops*, Lahore *(2025)*  
+- 🤝 Conducted **Generative AI courses** in collaboration with **Pakistan Engineering Council (PEC)** & **Aspire Pakistan** *(2025)*  
+- 🧭 Conducted **Building Research Profile Workshops**, guiding students on **research skills, and career pathways** *(2025)*  
+- 👩‍🏫 Led **10+** Python & ML workshops as **Mentor, AI@UCI Club (UC Irvine)** and **Chairperson, IEEE UET Women in Engineering Committee**  
 
 ---
 
@@ -79,8 +83,9 @@ summarization, incorporating persona-based prompt engineering; published at ASEE
 ## 🏆 Completed Hackathons
 
 <p align="center">
-  <img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/Hackathon1" alt="Hackathon" , height="200"/>
-  <img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/CSGirliesup.png?raw=true" alt="CS Girlies"  height="200"/>
+  <img src="https://raw.githubusercontent.com/Eeshababar/Eeshababar/main/assets/Hackathon1.png" alt="Hackathon" height="200" style="margin-right: 15px;"/>
+  <img src="https://raw.githubusercontent.com/Eeshababar/Eeshababar/main/assets/CSGirliesup.png" alt="CS Girlies" height="200" style="margin-right: 15px;"/>
+  <img src="https://raw.githubusercontent.com/Eeshababar/Eeshababar/main/assets/gamma3n.png" alt="Gamma3n" height="200"/>
 </p>
 
 ---

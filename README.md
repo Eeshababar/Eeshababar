@@ -43,9 +43,7 @@ summarization, incorporating persona-based prompt engineering; published at ASEE
 
 ---
 
-## 🤝 Volunteer Experience
-
-## 🎓 Teaching & Community Engagement
+## 🤝 Volunteer Services
 
 - 📢 Organized free online **Python & AI Bootcamps**, training **500+** underserved students *(2025)*  
 - 📄 Reviewer for the **ASEE Annual Conference** *(2025)*  
@@ -83,7 +81,7 @@ summarization, incorporating persona-based prompt engineering; published at ASEE
 ## 🏆 Completed Hackathons
 
 <p align="center">
-  <img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/Hackathon1" alt="Hackathon" height="200" style="margin-right: 15px;"/>
+  <img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/Hackathon1" alt="Hackathon" height="230" style="margin-right: 15px;"/>
   <img src="https://raw.githubusercontent.com/Eeshababar/Eeshababar/main/assets/CSGirliesup.png" alt="CS Girlies" height="200" style="margin-right: 15px;"/>
   <img src="https://raw.githubusercontent.com/Eeshababar/Eeshababar/main/assets/gamma3n.png" alt="Gamma3n" height="200"/>
 </p>

@@ -59,7 +59,7 @@ across diverse tasks to highlight their strengths and limitations.
 ## 🚀 Current Projects
 - 🧠 **AI for Healthcare Diagnostics & Chronic Care Management**  
 - 📚 **Teaching AI, Machine Learning, and Data Science at FAST NUCES**  
-- 🔍 **Research in Explainable AI & Retrieval-Augmented Generation**  
+- 🔍 **Research in applications of Explainable AI & Retrieval-Augmented Generation**  
 - 🤖 **Building AI-powered chatbots & multi-agent systems**  
 
 ---
@@ -94,6 +94,7 @@ across diverse tasks to highlight their strengths and limitations.
 
 <p align="center">
   <img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/GenAI%20mentorship.jpg?raw=true" alt="GenAI Mentorship" height="350"/><br>
+  <img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/Hackathon1 " alt="GenAI Mentorship" height="350"/><br>
 </p>
 
 

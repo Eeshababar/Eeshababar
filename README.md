@@ -86,6 +86,8 @@ across diverse tasks to highlight their strengths and limitations.
   <img src="https://raw.githubusercontent.com/Eeshababar/Eeshababar/main/assets/CSGirliesup.png" alt="CS Girlies" height="200" style="margin-right:15px;"/>
   <img src="https://raw.githubusercontent.com/Eeshababar/Eeshababar/main/assets/gamma3n.png" alt="Gamma3n" height="200" style="margin-right:15px;"/>
   <img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/raise%20you%20hack%20certificate.png" alt="Hackathon" height="200"/>
+  <img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/GPT-5%20hackathon%20complete.png" alt="Hackathon" height="200"/>
+    
 </p>
 
 

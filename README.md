@@ -1,3 +1,8 @@
+
+<img src="https://raw.githubusercontent.com/Eeshababar/Eeshababar/main/assets/banner.png">
+
+---
+
 # Hi, I'm Eesha Tur Razia Babar 👋
 
 **UC Irvine Graduate** | **AI Research Assistant @ University of Oklahoma** | **AWS re:Invent Scholar**  
@@ -6,6 +11,7 @@
 ---
 
 ## 👩‍💻 About Me
+
 I am an AI researcher and an educator, passionate about solving real-world problems through AI.  
 My work spans **Artificial Intelligence**, **Data Science**, and **Generative AI applications**.  
 I combine academic insight with hands-on experience to create impactful solutions and empower the next generation of AI talent.

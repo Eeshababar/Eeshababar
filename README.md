@@ -1,5 +1,6 @@
 
-<img src="[https://raw.githubusercontent.com/Eeshababar/Eeshababar/main/assets/banner.png](https://github.com/Eeshababar/Eeshababar/blob/main/assets/Banner.png)">
+![Banner](https://raw.githubusercontent.com/Eeshababar/Eeshababar/main/assets/Banner.png)
+
 
 ---
 

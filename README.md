@@ -114,6 +114,21 @@ across diverse tasks to highlight their strengths and limitations.
   <img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/ICOSST%2017%20Certificate.jpg" alt="GenAI Mentorship" height="350"/><br>
   <img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/IEEE%20WIE%20Certificate.jpg" alt="GenAI Mentorship" height="350"/><br>
   <img src=https://github.com/Eeshababar/Eeshababar/blob/main/assets/SPECTRUM%2018%20Certificate.jpg" alt="GenAI Mentorship" height="350"/><br>
+
+
+  ---
+
+## 🎖️ Certification
+
+<p align="center">
+  <img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/GenAI%20mentorship.jpg?raw=true" alt="GenAI Mentorship" height="350"/><br>
+  <img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/Hackathon1 " alt="GenAI Mentorship" height="350"/><br>
+  <img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/GPT-5%20Certification.webp" alt="GenAI Mentorship" height="350"/><br>
+  <img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/Top%20performer%20award.png" alt="GenAI Mentorship" height="350"/><br>
+  <img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/APES%2018%20Certificate.jpg" alt="GenAI Mentorship" height="350"/><br>
+  <img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/ICOSST%2017%20Certificate.jpg" alt="GenAI Mentorship" height="350"/><br>
+  <img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/IEEE%20WIE%20Certificate.jpg" alt="GenAI Mentorship" height="350"/><br>
+  <img src=https://github.com/Eeshababar/Eeshababar/blob/main/assets/SPECTRUM%2018%20Certificate.jpg" alt="GenAI Mentorship" height="350"/><br>
   
   
 </p>

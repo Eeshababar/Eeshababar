@@ -37,19 +37,16 @@ I combine academic insight with hands-on experience to create impactful solution
 
 - **AI Research Assistant** – *University of Oklahoma*  
 - Built scikit-learn and PyTorch pipelines with SMOTE and GridSearchCV to predict student mental health,
-  performance, and drop-out risk
-- Applied LIME and SHAP to improve model transparency; published at ASEE 2025
+  performance, and drop-out risk, applied LIME and SHAP to improve model transparency; published at ASEE 2025
 
 - **AI Research Assistant** – *Purdue University*  
 - Evaluated the specificity of NLP-annotated student reflections using inferential statistical tests and post
-  hoc analysis, leading to a Journal paper in-preparation
-- Conducted a comparative benchmark of traditional NLP algorithms and LLMs for student reflection
+  hoc analysis, leading to a Journal paper in-preparation, conducted a comparative benchmark of traditional NLP algorithms and LLMs for student reflection
   summarization, incorporating persona-based prompt engineering; published at ASEE 2024
 
 - **AI Research Assistant** – *University of California, Irvine*
-- Researched college students’ perceptions of generative AI across disciplines by designing and administering surveys, 
-  then analyzing responses for actionable insights.
-- Evaluated and compared the performance of Large Language Models (LLMs), including ChatGPT 4.0 and Google Bard, 
+  Researched college students’ perceptions of generative AI across disciplines by designing and administering surveys, 
+  then analyzing responses for actionable insights, evaluated and compared the performance of Large Language Models (LLMs), including ChatGPT 4.0 and Google Bard, 
   across diverse tasks to highlight their strengths and limitations.
   
 ## 🤝 Volunteer Services

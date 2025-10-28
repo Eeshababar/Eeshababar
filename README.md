@@ -93,7 +93,7 @@ across diverse tasks to highlight their strengths and limitations.
 ## 🏆 Mentored and Completed Hackathons
 
 <p align="center">
-  <img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/USDC.PNG " alt="lablab.ai" height="200" style="margin-right:15px;"/>
+  <img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/USDC.PNG" alt="lablab.ai" height="200" style="margin-right:15px;"/>
   <img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/Solana.PNG" alt="lablab.ai" height="200" style="margin-right:15px;"/>
   <img src="https://github.com/Eeshababar/Eeshababar/blob/main/assets/CS%20girlies.PNG" alt="CS Girlies" height="200" style="margin-right:15px;"/>
   <img src="https://raw.githubusercontent.com/Eeshababar/Eeshababar/main/assets/gamma3n.png" alt="Gamma3n" height="200" style="margin-right:15px;"/>
